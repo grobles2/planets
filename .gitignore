@@ -1,0 +1,4 @@
+*.dat
+raw-results/
+#ignore meeting notes
+*meeting-notes.Rmd
