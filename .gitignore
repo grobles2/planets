@@ -1,4 +1,6 @@
+!sample.dat
 *.dat
-raw-results/
+raw/
 #ignore meeting notes
 *meeting-notes.Rmd
+build/temp-data/*
